@@ -1,0 +1,61 @@
+{
+	"username": "Username",
+	"password": "Password",
+	"login": "Log in",
+	"error": "Error",
+	"loginFailed": "Login failed. Please check your username and password.",
+	"ok": "OK",
+	"register": "Register",
+	"userPanel": "User Panel",
+	"welcome": "Welcome, {}!",
+	"register_form": {
+		"username": "Username",
+		"email": "Email",
+		"password": "Password",
+		"description": "Description",
+		"activity": "Activity",
+		"phone_number": "Phone Number",
+		"create_company_account": "Create Company Account",
+		"company_name": "Company Name",
+		"company_address": "Company Address",
+		"num_of_employees": "Number of Employees",
+		"nip": "NIP",
+		"regon": "REGON",
+		"krs": "KRS",
+		"foreign_company_number": "Foreign Company Number",
+		"register_button": "Register"
+	},
+	"validation": {
+		"username_required": "Username is required",
+		"email_required": "Email is required",
+		"password_required": "Password is required",
+		"email_format": "Invalid email format",
+		"password_format": "Password must have at least 8 characters, including uppercase and lowercase letters, a number, and a special character",
+		"phone_length": "Phone number must have 9 digits",
+		"company_name_required": "Company name is required",
+		"company_address_required": "Company address is required",
+		"num_of_employees_required": "Number of employees is required",
+		"nip_length": "NIP must have 10 digits",
+		"regon_length": "REGON must have 9 digits",
+		"krs_length": "KRS must have 10 digits"
+	},
+	"ad_person_form": {
+		"title": "Title",
+		"type": "Type",
+		"experience": "Experience",
+		"additionalQualifications": "Additional Qualifications",
+		"salary": "Salary",
+		"images": "Images",
+		"description": "Description"
+	},
+	"addAdPersonFailed": "Failed to add ad person",
+
+	"name": "Name",
+	"links": "Links",
+	"startDate": "Start Date",
+	"endDate": "End Date",
+	"images": "Images",
+	"addAdvertisment": "Add Advertisment",
+
+	"addAdvertismentFailed": "Failed to add advertisment"
+}
